@@ -45,7 +45,7 @@
 			fw.write(arraytotal.toJSONString());
 			fw.close();
 			br.close();
-			fr.close();
+			
 			
 		}
 	
